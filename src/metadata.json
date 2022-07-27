@@ -4,7 +4,8 @@
   "name": "OClock",
   "shell-version": [
     "40",
-    "41"
+    "41",
+    "42"
   ],
   "url": "https://www.github.com/jere-ortega24/gnome-shell-extension-oclock/",
   "uuid": "oclock@ortega.tech",
